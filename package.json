@@ -1,0 +1,19 @@
+{
+  "name": "rslang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmjyz44/rsLang.git"
+  },
+  "author": "L.Zhovtiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmjyz44/rsLang/issues"
+  },
+  "homepage": "https://github.com/kmjyz44/rsLang#readme"
+}
